@@ -195,9 +195,9 @@ export default function HomePage() {
           </div>
           <div className="footer-info"><h3>Address</h3><p>Jl. Melasti Beach 88, Ungasan, Bali</p><p>Open Daily : 7 AM – 9 PM</p></div>
           <div className="footer-info"><h3>Contact</h3><p>+62 812-3886-8631</p><p>info@ttbeach.club</p></div>
-          <div className="socials"><span>Find Us</span><a href="#contact" aria-label="Instagram"><Instagram /></a><a href="#contact" aria-label="Facebook"><Facebook /></a></div>
+          <div className="socials"><span>Find Us</span><a href="https://www.instagram.com/tropicaltemptation/" aria-label="Instagram"><Instagram /></a><a href="https://www.facebook.com/ttbeachclub" aria-label="Facebook"><Facebook /></a></div>
         </footer>
-        <div className="copyright">Copyright © 2026 Tropical Temptation Beach Club | Collections of Wonderspace</div>
+        <div className="copyright">Copyright © 2026 - Celia Maureen</div>
       </section>
     </main>
   );
